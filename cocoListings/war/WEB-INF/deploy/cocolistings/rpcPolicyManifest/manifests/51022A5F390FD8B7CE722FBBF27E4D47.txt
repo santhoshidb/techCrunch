@@ -1,0 +1,2 @@
+serviceClass: cocoListings.client.GreetingService
+path: 23EA8C8DFA54C08F1FED29CA06C5FC42.gwt.rpc
